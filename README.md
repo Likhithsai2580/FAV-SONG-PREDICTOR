@@ -48,6 +48,11 @@ To use the project, follow these steps:
    python use.py
    ```
 
+4. Use the `train.py` script to update the reinforcement learning model with user feedback:
+   ```bash
+   python train.py
+   ```
+
 ## Contribution Guidelines
 
 We welcome contributions to improve the project. To contribute, follow these steps:
